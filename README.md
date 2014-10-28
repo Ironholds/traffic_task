@@ -10,8 +10,8 @@ The Product Development team has asked you to give them some information about h
 In particular, they're interested by:
 
 1. How long do people spend on Wikipedia in a single session?
-2. How many pages do they view in each session?
-3. How long do people spend on each page?
+2. How many events happen in each session?
+3. How long do people spend idling over each event?
 
 After much [wailing and gnashing of teeth](https://en.wikipedia.org/wiki/Data_wrangling), you extract a dataset,
 stored imaginatively at <code>traffic_dataset.tsv</code> of unique identifiers and timestamps, down to 1-second
