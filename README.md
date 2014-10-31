@@ -11,7 +11,7 @@ In particular, they're interested by:
 
 1. How long do people spend on Wikipedia in a single session?
 2. How many events happen in each session?
-3. How long do people spend idling over each event?
+3. How much time do people spend per event within a session?
 
 After much [wailing and gnashing of teeth](https://en.wikipedia.org/wiki/Data_wrangling), you extract a dataset,
 stored imaginatively at <code>traffic_dataset.tsv</code> of unique identifiers and timestamps, down to 1-second
